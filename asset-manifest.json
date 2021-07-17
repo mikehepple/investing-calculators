@@ -1,23 +1,25 @@
 {
   "files": {
     "main.css": "/investing-calculators/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/investing-calculators/static/js/main.1c686da4.chunk.js",
-    "main.js.map": "/investing-calculators/static/js/main.1c686da4.chunk.js.map",
-    "runtime-main.js": "/investing-calculators/static/js/runtime-main.523659ce.js",
-    "runtime-main.js.map": "/investing-calculators/static/js/runtime-main.523659ce.js.map",
-    "static/js/2.9cda6494.chunk.js": "/investing-calculators/static/js/2.9cda6494.chunk.js",
-    "static/js/2.9cda6494.chunk.js.map": "/investing-calculators/static/js/2.9cda6494.chunk.js.map",
-    "static/js/3.344e3d50.chunk.js": "/investing-calculators/static/js/3.344e3d50.chunk.js",
-    "static/js/3.344e3d50.chunk.js.map": "/investing-calculators/static/js/3.344e3d50.chunk.js.map",
+    "main.js": "/investing-calculators/static/js/main.6b3b2313.chunk.js",
+    "main.js.map": "/investing-calculators/static/js/main.6b3b2313.chunk.js.map",
+    "runtime-main.js": "/investing-calculators/static/js/runtime-main.1ae65ddf.js",
+    "runtime-main.js.map": "/investing-calculators/static/js/runtime-main.1ae65ddf.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/investing-calculators/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.5cd27b05.chunk.js": "/investing-calculators/static/js/2.5cd27b05.chunk.js",
+    "static/js/2.5cd27b05.chunk.js.map": "/investing-calculators/static/js/2.5cd27b05.chunk.js.map",
+    "static/js/3.8825da77.chunk.js": "/investing-calculators/static/js/3.8825da77.chunk.js",
+    "static/js/3.8825da77.chunk.js.map": "/investing-calculators/static/js/3.8825da77.chunk.js.map",
     "index.html": "/investing-calculators/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/investing-calculators/static/css/2.fb17aa6d.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/investing-calculators/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9cda6494.chunk.js.LICENSE.txt": "/investing-calculators/static/js/2.9cda6494.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/investing-calculators/static/media/logo.6ce24c58.svg"
+    "static/js/2.5cd27b05.chunk.js.LICENSE.txt": "/investing-calculators/static/js/2.5cd27b05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.523659ce.js",
-    "static/js/2.9cda6494.chunk.js",
+    "static/js/runtime-main.1ae65ddf.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.5cd27b05.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1c686da4.chunk.js"
+    "static/js/main.6b3b2313.chunk.js"
   ]
 }
